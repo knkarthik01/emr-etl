@@ -22,14 +22,17 @@ Install jq and AWS CLI:
    ```
 ## How to Run
 
+Copy the file to your local:
+https://github.com/knkarthik01/emr-etl/blob/main/Final_blog_e2e.sh
+
 Make the Bash script executable:
     ```bash
-    chmod +x your_script.sh
+    chmod +x Final_blog_e2e.sh
     ```
 
 Run the Bash script and provide the `extractId` when prompted:
     ```bash
-    ./your_script.sh
+    ./Final_blog_e2e.sh.sh
     ```
 ## How it Works
 ### Bash Script
