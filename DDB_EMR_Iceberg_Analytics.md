@@ -10,6 +10,9 @@ AWS CLI
 jq for JSON parsing
 ## Installation
 
+Copy the file to your local:
+https://github.com/knkarthik01/emr-etl/blob/main/Final_blog_e2e.sh
+
 Install the required Python packages:
    ```bash
    pip install pyspark
@@ -22,8 +25,7 @@ Install jq and AWS CLI:
    ```
 ## How to Run
 
-Copy the file to your local:
-https://github.com/knkarthik01/emr-etl/blob/main/Final_blog_e2e.sh
+
 
 Make the Bash script executable:
     ```bash
